@@ -1,10 +1,9 @@
 /* Flexbox Part 1 */
 
 #flex-section1 ul {
-  display: flexk;
+  display: flex;
   flex-direction: row; /* Make it a horizontal row */
   justify-content: space-between; /* Add equal space between the buttons */
-  list-style-type: none;
 }
 
 /* end Flexbox Part 1 */
